@@ -1,0 +1,102 @@
+PET_id,PET_jp,Domain,Register,Literal equivalent (JP),English gloss (euphemism),English gloss (literal),Euphe_status
+1,ご年配,Aging,Formal,老人,elderly person,old person,always
+2,ご高齢,Aging,Formal,老い,advanced age,old age,always
+3,シニア,Aging,Neutral,老人,senior,old person,sometimes
+4,年齢を重ねる,Aging,Neutral,老いる,accumulate years,get old,always
+5,セカンドライフ,Aging,Neutral,老後,second life,retirement,always
+6,シルバー世代,Aging,Neutral,高齢者,silver generation,elderly,always
+7,芋っぽい,Appearance,Informal,ダサい,countrified / unfashionable,like a potato,always
+8,顔をいじる,Appearance,Informal,整形する,to get work done (on the face),to get plastic surgery,sometimes
+9,社会の窓,Appearance,Neutral,ズボンのチャック,pants window (zipper),pants fly,always
+10,丸い,Appearance,Neutral,太っている,round,fat,sometimes
+11,ぽっちゃり,Appearance,Informal,太っている,chubby,fat,always
+12,太め,Appearance,Neutral,太っている,bigger,fat,sometimes
+13,お手洗い,Bodily Functions,Neutral,便所,restroom,toilet,always
+14,化粧室,Bodily Functions,Neutral,便所,powder room,toilet,always
+15,大きい方,Bodily Functions,Informal,糞,poop,feces,sometimes
+16,小さい方,Bodily Functions,Informal,尿,pee,urine,sometimes
+17,用を足す,Bodily Functions,Neutral,排泄,do one’s business,urinate/defecate,always
+18,お通じ,Bodily Functions,Neutral,排便,bowel movement,defecation,always
+19,月のもの,Bodily Functions,Neutral,月経,monthly thing,menstruation,always
+20,女の子の日,Bodily Functions,Neutral,月経,girl’s day,menstruation,sometimes
+21,デリケートゾーン,Bodily Functions,Neutral,性器,delicate zone,genitals,sometimes
+22,プライベートゾーン,Bodily Functions,Neutral,性器,private zone,genitals,sometimes
+23,一緒に寝る,Sexuality & Relationships,Informal,性交,sleep together,have sex,sometimes
+24,授かる,Bodily Functions,Neutral,妊娠する,be blessed with,get pregnant,sometimes
+25,ご懐妊,Bodily Functions,Neutral,妊娠,expecting,pregnancy,always
+26,おめでた,Bodily Functions,Neutral,妊娠,happy news,pregnancy,always
+27,できちゃった,Bodily Functions,Informal,妊娠,oops pregnancy,unintended pregnancy,sometimes
+28,できちゃった婚,Bodily Functions,Informal,妊娠による結婚,shotgun wedding,pregnancy marriage,always
+29,お花を摘む,Bodily Functions,Neutral,排泄,go to the restroom (ladies’ euphemism),pick (real) flowers,sometimes
+30,キジ撃ち,Bodily Functions,Neutral,排泄,pee outdoors (men’s euphemism),shoot a pheasant,sometimes
+31,フン,Bodily Functions,Informal,大便,feces,poop,sometimes
+32,足を洗う,Crime & Social Issues,Neutral,更生,wash one’s foots of crime/vice,wash one’s foots,sometimes
+33,運び屋,Crime & Social Issues,Neutral,麻薬を運搬する人,porter / delivery person,drug mule ,sometimes
+34,ブツ,Crime & Social Issues,Informal,麻薬 / 銃,thing / stuff,"drug, gun",sometimes
+35,白い粉,Crime & Social Issues,Neutral,麻薬,white powder,drug,sometimes
+36,一線を超える,Crime & Social Issues,Neutral,逸脱する・法を破る,to cross the line,to commit a crime or serious misconduct,always
+37,不祥事,Crime & Social Issues,Neutral,事件,scandal,criminal case,always
+38,タマを取る,Crime & Social Issues,Informal,殺す,to take someone’s life,to kill,sometimes
+39,始末する,Crime & Social Issues,Neutral,殺す・排除する,to take care of someone,to kill or eliminate,sometimes
+40,見送る,Death & Dying,Neutral,葬る,to see off (the deceased),to bury/hold a funeral,sometimes
+41,亡くなる,Death & Dying,Neutral,死ぬ,pass away,die,sometimes
+42,お亡くなりになる,Death & Dying,Formal,死ぬ,pass away (honorific),die,always
+43,ご逝去,Death & Dying,Formal,死亡,decease,death,always
+44,永眠する,Death & Dying,Neutral,死ぬ,eternal rest,fall asleep forever,always
+45,他界する,Death & Dying,Neutral,死ぬ,pass into another world,die,always
+46,あの世に行く,Death & Dying,Neutral,死ぬ,go to the other world,die,always
+47,旅立つ,Death & Dying,Neutral,死ぬ,depart on a journey,die,sometimes
+48,帰らぬ人となる,Death & Dying,Neutral,死ぬ,become one who never returns,die,always
+49,召される,Death & Dying,Formal,死ぬ,be called,die,sometimes
+50,安らかに眠る,Death & Dying,Neutral,死ぬ,sleep peacefully,die,sometimes
+51,冷たくなる,Death & Dying,Neutral,死ぬ,become cold,die,sometimes
+52,一生を終える,Death & Dying,Neutral,死ぬ,finish one’s life,die,always
+53,息を引き取る,Death & Dying,Neutral,死ぬ,breathe one’s last,die,always
+54,息絶える,Death & Dying,Neutral,死ぬ,breathe out completely,die,always
+55,この世を去る,Death & Dying,Neutral,死ぬ,leave this world,die,always
+56,生涯を終える,Death & Dying,Neutral,死ぬ,end one’s life,die,always
+57,大往生する,Death & Dying,Formal,長生きして死ぬ,die a natural death,live long and die,always
+58,眠りにつく,Death & Dying,Neutral,死ぬ,go to sleep,die,sometimes
+59,火の車,Workplace & Economy,Neutral,経済が苦しい,financially burning,on fire (cart),always
+60,ボンビー,Workplace & Economy,Informal,貧乏,being broke,poor,always
+61,不自由,Illness & Disability ,Neutral,障害,impairment,disability,sometimes
+62,ハンディキャップ,Illness & Disability ,Neutral,障害,handicap,disability,sometimes
+63,特別支援,Illness & Disability ,Neutral,障害教育,special support,disability education,sometimes
+64,もどす,Illness & Disability ,Neutral,吐く,to throw up,to vomit,sometimes
+65,障がい,Illness & Disability ,Neutral,障害,disability (softened spelling),disability (obstacle + harm),sometimes
+66,お開き,Others,Neutral,終わり,closing (of an event),"end, finish",sometimes
+67,家庭の事情,Others,Neutral,家族の問題,family circumstances,family problems,always
+68,金魚のフン,Others,Neutral,付きまとう人,a tagalong person,person who follows someone around,sometimes
+69,八方美人,Others,Neutral,誰にでもいい顔する人,people pleaser,someone who tries to please everyone,always
+70,一身上の都合,Personality,Neutral,個人的な理由,personal reasons,private matters,always
+71,おてんば,Personality,Neutral,落ち着きがない / やんちゃ,tomboyish / playful,unruly / mischievous,always
+72,マイペース,Personality,Neutral,協調性がない,at one’s own pace,uncooperative,sometimes
+73,繊細,Personality,Neutral,神経質,sensitive,overly sensitive / neurotic,sometimes
+74,のんびり屋,Personality,Neutral,鈍い / 行動が遅い,laid-back,slow / dull,always
+75,大らか,Personality,Neutral,無神経,easygoing,insensitive,sometimes
+76,遺憾,Politics & War,Formal,強い非難 / 謝罪,express regret / deplore,strongly criticize / apologize,always
+77,人的被害,Politics & War,Formal,死傷者,damage to people,damage to people,always
+78,人道的介入,Politics & War,Formal,軍事介入,intervention for humanitarian reasons,Military intervention,always
+79,大人の関係,Sexuality & Relationships,Neutral,性関係,adult relationship,sexual relationship,sometimes
+80,夜の営み,Sexuality & Relationships,Neutral,性交,nightly activity,sexual intercourse,always
+81,愛を交わす,Sexuality & Relationships,Neutral,性交,make love,have sex,sometimes
+82,夫婦生活,Sexuality & Relationships,Neutral,性交,married life,sexual life,sometimes
+83,夜の関係,Sexuality & Relationships,Neutral,性交,night relationship,sex,always
+84,夜遊び,Sexuality & Relationships,Neutral,性行為／風俗,night play,sex/sex work,sometimes
+85,夜のお仕事,Sexuality & Relationships,Neutral,性風俗,night work,sex work,sometimes
+86,水商売,Sexuality & Relationships,Neutral,性風俗業,water trade,sex/hostess industry,always
+87,援助交際,Sexuality & Relationships,Neutral,売春,compensated dating,prostitution,always
+88,デリヘル,Sexuality & Relationships,Neutral,売春,outcall service,prostitution,always
+89,風俗,Sexuality & Relationships,Neutral,売春,adult entertainment,prostitution,always
+90,お遊び,Sexuality & Relationships,Informal,売春／浮気,play,sex/affair,sometimes
+91,コンパニオン,Sexuality & Relationships,Neutral,接待女性,companion,hostess,sometimes
+92,慰安婦,Sexuality & Relationships,Neutral,性奴隷 / 強制売春婦,comfort woman,sex slave / forced prostitute,always
+93,パパ活,Sexuality & Relationships,Informal,援助交際,sugar dating,do activities with a “daddy”,always
+94,枕を交わす,Sexuality & Relationships,Neutral,性交する,to sleep with (someone),to have sexual intercourse,always
+95,一線を超える,Sexuality & Relationships,Neutral,性交する,to cross the line,to have sexual relations,
+96,リストラ,Workplace & Economy,Neutral,解雇,restructuring,dismissal,always
+97,早期退職制度,Workplace & Economy,Neutral,解雇,early retirement program,dismissal,sometimes
+98,人員整理,Workplace & Economy,Neutral,解雇,personnel adjustment,dismissal,always
+99,異動,Workplace & Economy,Neutral,左遷,transfer,demotion/transfer,sometimes
+100,出向,Workplace & Economy,Neutral,強制転勤,secondment,forced transfer,sometimes
+101,経営合理化,Workplace & Economy,Neutral,コスト削減,rationalization,cost-cutting,sometimes
